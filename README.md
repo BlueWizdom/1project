@@ -70,26 +70,48 @@
 
 ## 🏫 웹사이트 시연 스크린샷
 
+<div align="center">
+
 ### ▶ 메인 페이지 및 로그인 창 회원가입 회원 정보 수정
 
-![프로젝트 메인 페이지 및 로그인](/ReadMeImg/1project_Login.gif)
+<br/>
+
+<img src="./ReadMeImg/1project_Login.gif" width="500" max-width="100%" alt="메인 페이지 및 로그인 창 회원가입 회원 정보 수정 스크린샷" title="메인 페이지 및 로그인 창 회원가입 회원 정보 수정 스크린샷"/>
+
+</div>
 
 <br/>
+
+<div align="center">
 
 ### ▶ 학원 및 교수 소개 페이지
 
-![프로젝트 학원 및 교수 소개](/ReadMeImg/1project_introducing_academy.gif)
+<br/>
+
+<img src="./ReadMeImg/1project_introducing_academy.gif" width="500" max-width="100%" alt="학원 및 교수 소개 페이지 스크린샷" title="학원 및 교수 소개 페이지 스크린샷"/>
+
+</div>
 
 <br/>
+
+<div align="center">
 
 ### ▶ 수강 신청, 게시판 및 리뷰 남기기
 
-![프로젝트 수강 신청 게시판 리뷰](/ReadMeImg/1project_registering_class_and_reviews.gif)
+<br/>
+
+<img src="./ReadMeImg/1project_registering_class_and_reviews.gif" width="500" max-width="100%" alt="수강 신청, 게시판 및 리뷰 남기기 스크린샷" title="수강 신청, 게시판 및 리뷰 남기기 스크린샷"/>
+
+</div>
 
 <br/>
+
+<div align="center">
 
 ### ▶ 관리자 페이지
 
-![프로젝트 관리자 페이지](/ReadMeImg/1project_admin.gif)
-
 <br/>
+
+<img src="./ReadMeImg/1project_admin.gif" width="500" max-width="100%" alt="관리자 페이지 스크린샷" title="관리자 페이지 스크린샷"/>
+
+</div>
